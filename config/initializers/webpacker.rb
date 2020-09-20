@@ -1,0 +1,1 @@
+Webpacker::Compiler.env["pk_test_7f1e86d4cc196a63422d2052"] = ENV["sk_test_96dbe48cc3a53f6dd17bc11d"]
